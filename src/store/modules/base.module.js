@@ -33,7 +33,7 @@ const actions = {
   [BASE_POST_METHOD](context, payload) {
     return new Promise((resolve, reject) => {
       apiService
-        .post("https://jsonplaceholder.typicode.com/posts", payload)
+        .post("/posts", payload)
         .then((payload) => {
           resolve(payload);
         })
@@ -46,10 +46,7 @@ const actions = {
   [BASE_PUT_METHOD](context, payload) {
     return new Promise((resolve, reject) => {
       apiService
-        .put(
-          `https://jsonplaceholder.typicode.com/posts/${payload.id}`,
-          payload
-        )
+        .put(`/posts/${payload.id}`, payload)
         .then((payload) => {
           resolve(payload);
         })
@@ -62,10 +59,7 @@ const actions = {
   [BASE_DELETE_METHOD](context, payload) {
     return new Promise((resolve, reject) => {
       apiService
-        .delete(
-          `https://jsonplaceholder.typicode.com/posts/${payload.id}`,
-          payload
-        )
+        .delete(`/posts/${payload.id}`, payload)
         .then((payload) => {
           resolve(payload);
         })
