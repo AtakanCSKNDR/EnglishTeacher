@@ -1,6 +1,6 @@
 <template>
     <div>
-        burası Base View page
+        BASE VIEW PAGE
     </div>
 </template>
 
