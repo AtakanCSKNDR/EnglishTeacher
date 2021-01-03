@@ -19,7 +19,7 @@ const actions = {
   [BASE_GET_METHOD](context) {
     return new Promise((resolve, reject) => {
       apiService
-        .get("https://jsonplaceholder.typicode.com/posts")
+        .get("/posts")
         .then((response) => {
           context.commit(BASE_SET_METHOD, response);
           resolve(response);

@@ -3,12 +3,12 @@ import axios from "axios";
 import VueAxios from "vue-axios";
 
 Vue.use(VueAxios, axios);
-
+const BASE_API = process.env.VUE_APP_BASE_API
 const apiService = {
   get(resource) {
     return new Promise((resolve, reject) => {
       Vue.axios
-        .get(`${resource}`)
+        .get(`${BASE_API}${resource}`)
         .then((response) => {
           resolve(response);
         })
@@ -20,7 +20,7 @@ const apiService = {
   post(resource, params) {
     return new Promise((resolve, reject) => {
       Vue.axios
-        .post(`${resource}`, params)
+        .post(`${BASE_API}${resource}`, params)
         .then((response) => {
           resolve(response);
         })
@@ -33,7 +33,7 @@ const apiService = {
   put(resource, params) {
     return new Promise((resolve, reject) => {
       Vue.axios
-        .put(`${resource}`, params)
+        .put(`${BASE_API}${resource}`, params)
         .then((response) => {
           resolve(response);
         })
@@ -46,7 +46,7 @@ const apiService = {
   delete(resource, params) {
     return new Promise((resolve, reject) => {
       Vue.axios
-        .delete(`${resource}`, params)
+        .delete(`${BASE_API}${resource}`, params)
         .then((response) => {
           resolve(response);
         })
