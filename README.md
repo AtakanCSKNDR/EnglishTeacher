@@ -1,5 +1,5 @@
 <p align="center">
-<img width="400" src="https://user-images.githubusercontent.com/50195250/104227965-3998bb80-545b-11eb-9f7b-e62d55454bec.png">
+<img width="500" src="https://user-images.githubusercontent.com/50195250/104232655-b62e9880-5461-11eb-9202-d672293d398a.png">
 </p>
 
 # What is boilerplate
