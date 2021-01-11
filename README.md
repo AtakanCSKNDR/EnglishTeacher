@@ -28,3 +28,12 @@ $ npm run build-staging
 $ npm run build-test
 $ npm run build-production
 ```
+### Contents
+
+Vue-Boilerplate uses a number of open source projects to work properly:
+
+* [VueJS](https://vuejs.org/) - Framework for building user interfaces.
+* [Vuetify](https://vuetifyjs.com/) - Vuetify is a Vue UI Library with beautifully handcrafted Material Components.
+* [Axios](https://github.com/imcvampire/vue-axios) - For HTTP requests (GET-POST-PUT-DELETE).
+* [Vuex](https://vuex.vuejs.org/) - Vuex is a state management pattern + library for Vue.js applications.
+* [node.js](https://nodejs.org/en/) - evented I/O for the backend
