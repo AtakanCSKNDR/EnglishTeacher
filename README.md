@@ -7,10 +7,10 @@
 EnglisTeacher is a english training game app. It's provide opportunity to improve your english skills. And also it is really enjoyable app. HAVE FUN !
 
 <p align="center">
-<img width="45%" src="https://user-images.githubusercontent.com/50195250/106261864-38c1a100-6233-11eb-887a-aa542e5c8cad.PNG">
-<img width="45%" src="https://user-images.githubusercontent.com/50195250/106261868-395a3780-6233-11eb-90bd-27ae04756ce5.png">
-<img width="45%" src="https://user-images.githubusercontent.com/50195250/106261869-39f2ce00-6233-11eb-98a2-a425b03290e3.png">
-<img width="45%" src="https://user-images.githubusercontent.com/50195250/106261872-39f2ce00-6233-11eb-8684-d7f18c82e59f.png">
+<img width="45%" src="https://user-images.githubusercontent.com/50195250/106271684-f606c580-6240-11eb-8035-5a3b85d248f4.png">
+<img width="45%" src="https://user-images.githubusercontent.com/50195250/106271689-f69f5c00-6240-11eb-8612-aac3f435cf8f.png">
+<img width="45%" src="https://user-images.githubusercontent.com/50195250/106271692-f7d08900-6240-11eb-8104-8ea1190cb38b.png">
+<img width="45%" src="https://user-images.githubusercontent.com/50195250/106271696-f8691f80-6240-11eb-8c6a-f48565d88cc3.png">
 </p>
 
 # Getting Started
