@@ -1,9 +1,6 @@
 <p align="center">
-<img width="500" src="https://user-images.githubusercontent.com/50195250/104232655-b62e9880-5461-11eb-9202-d672293d398a.png">
+<img width="500" src="https://user-images.githubusercontent.com/50195250/106252818-bd0e2700-6227-11eb-8039-6222eb5059ea.png">
 </p>
-
-# What is boilerplate
-Boiler plate is provides a quick start to the project. DONT REPEAT YOURSELF!
 
 # Getting Started
 Vue-Boilerplate requires [Node.js](https://nodejs.org/) to run.
