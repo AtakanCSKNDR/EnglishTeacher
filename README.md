@@ -7,11 +7,12 @@
 EnglisTeacher is a english training game app. It's provide opportunity to improve your english skills. And also it is really enjoyable app. HAVE FUN !
 
 <p align="center">
-<img width="45%" src="https://user-images.githubusercontent.com/50195250/106271692-f7d08900-6240-11eb-8104-8ea1190cb38b.png">
-<img width="45%" src="https://user-images.githubusercontent.com/50195250/106271696-f8691f80-6240-11eb-8c6a-f48565d88cc3.png">
-<img width="45%" src="https://user-images.githubusercontent.com/50195250/106271689-f69f5c00-6240-11eb-8612-aac3f435cf8f.png">
-<img width="45%" src="https://user-images.githubusercontent.com/50195250/106271684-f606c580-6240-11eb-8035-5a3b85d248f4.png">
-
+<img width="30%" src="https://user-images.githubusercontent.com/50195250/106287417-cfa05480-6257-11eb-889a-09fda78d6e55.png">
+<img width="30%" src="https://user-images.githubusercontent.com/50195250/106287412-cf07be00-6257-11eb-8188-9d08ea9f8d49.png">
+<img width="30%" src="https://user-images.githubusercontent.com/50195250/106287419-d038eb00-6257-11eb-8152-ad90675dfc04.png">
+<img width="30%" src="https://user-images.githubusercontent.com/50195250/106287425-d16a1800-6257-11eb-8168-3dd15f44b2b3.png">
+<img width="30%" src="https://user-images.githubusercontent.com/50195250/106287421-d0d18180-6257-11eb-9918-2d5a44772966.png">
+<img width="30%" src="https://user-images.githubusercontent.com/50195250/106287426-d16a1800-6257-11eb-96f8-e4de219674d0.png">
 </p>
 
 # Getting Started
